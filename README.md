@@ -4,9 +4,6 @@
 Police d'écriture par défaut "Montserrat"
 https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
 
-Police d'écriture pour le titre "Abril Fatface"
-https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap
-
 Couleurs utilisées :
 
 blanc : #fff
