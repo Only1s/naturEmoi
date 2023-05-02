@@ -1,11 +1,13 @@
 
-# Challenge Assets
+# Site de ventes de Plantes appellé "NatureEmoi"
 
 Police d'écriture par défaut "Montserrat"
 https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
 
-Couleurs utilisées :
+Pour voir le résultat:
+https://mansilla.netlify.app/
 
+Couleurs utilisées :
 blanc : #fff
 blanc transparent : #FFFFFFDF
 vert clair : #ADD981
