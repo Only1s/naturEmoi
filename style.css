@@ -232,3 +232,16 @@ footer .text{
     align-items: flex-end;
     margin: 0px 7.5vh 0px 7.5vh;
 }
+.no-responsible{
+    display: none;
+}
+@media only screen and (max-width: 768px) {
+    /* Masquer tout le contenu du site */
+    body {
+        display: none;
+    }
+    .no-responsible{
+        display : flex;
+    }
+
+}
